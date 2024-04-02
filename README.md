@@ -1,2 +1,2 @@
 # Summary
-This is a README file
+The idea of this repo is to have something where I can work on my personal projects. There is no timeline for the projects but will allow me to have these projects saved somewhere other than my computer.
